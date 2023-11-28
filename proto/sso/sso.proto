@@ -2,6 +2,7 @@ syntax = "proto3";
 
 package auth;
 
+// smth
 option go_package = "github.com/MelnikovBogdan/board-game-auth-contracts.v1;contractsv1";
 
 service Auth {
